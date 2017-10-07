@@ -1,7 +1,3 @@
 # Sample
 Sample
 Sample Text
-
-
-
-
